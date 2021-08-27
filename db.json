@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "push",
+      "password": "abc"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "MC Donald",
+      "address": "Delhi",
+      "rating": "4.4",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "WB Restaurnt",
+      "address": "Delhi",
+      "rating": "4.4",
+      "email": "mbrestaurant@test.com"
+    },
+    {
+      "id": 5,
+      "name": "WB Restaurnt",
+      "address": "kolkata",
+      "rating": "4.4",
+      "email": "mbrestaurant@test.com"
+    },
+    {
+      "name": "Madhu",
+      "email": "sidh@gmail.com",
+      "rating": "8.6",
+      "address": "siddharth nagar",
+      "id": 6
+    }
+  ]
+}
